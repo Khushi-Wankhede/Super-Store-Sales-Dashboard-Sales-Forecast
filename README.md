@@ -90,6 +90,7 @@ Uses historical sales data to predict future sales trends and support planning.
 🔮 Enables future sales forecasting for better inventory and resource management.
 
 6. Screenshots
+
    Super Sales Dashboard:
    ![Dashboard Preview](https://github.com/Khushi-Wankhede/Super-Store-Sales-Dashboard-Sales-Forecast/blob/main/Super%20Store%20Dashboard.png)
 
